@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Aniket Yadav
+description:      omniscient.
+disqus_shortname: Aniket
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,24 +9,24 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Aniket Yadav
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Coder | Loves Exploring around | Curious | Out of Box thinker | Proud Dog Owner ."
+  email:          aktyad@ymail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         
+  facebook:       aniket1196
+  github:         DaVincis
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:    aniket_yadav__  
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +yourid
 
 # Background image to be tiled on all pages
-background: 
+background: /images/clean-white-polygon-backgrounds-9.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Kolkata
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -49,7 +49,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 2
 
 kramdown:
   auto_ids: true

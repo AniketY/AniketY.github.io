@@ -1,0 +1,29 @@
+---
+author: Aniket
+comments: true
+date: 2014-06-24 14:59:53+00:00
+layout: post
+slug: what-is-c
+title: 'What is C '
+wordpress_id: 24
+categories:
+- Let us C !
+tags:
+- AT&amp;T Laboratory of USA
+- Aniket
+- Dennis Ritchie
+- learning C
+- LET US C
+---
+
+[caption id="" align="alignright" width="110"][![Dennis_Ritchie](http://t2.gstatic.com/images?q=tbn:ANd9GcSCTB9I_TXEV13gQvNR7JL2Cf3M0slUIuOLMUQ-640i9RvkcvxX)](http://en.wikipedia.org/wiki/Dennis_Ritchie) Dennis Ritchie[/caption]
+
+C is a programming language developed at AT&T Laboratory of USA in 1972 . It was developed by a man named[ Dennis Ritchie](http://en.wikipedia.org/wiki/Dennis_Ritchie).
+
+It all started in seventies when C started to replace popular languages of that time ( PL/I , ALGOL etc.) . It was never made official language of AT&T lab and no one pushed C .Thus, without any advertisement it became one of the widely spread language. C's reputation spread and it's pool of user grew
+
+Possibly why C is so popular is because it is reliable ,simple and easy to use. In industries where newer languages emerge and vanish everyday , a language that survived three decades has to be really great .
+
+
+
+
