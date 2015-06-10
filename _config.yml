@@ -23,7 +23,8 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    
+  google_plus:      +AniketyadavCoder
+
 
 # Background image to be tiled on all pages
 background: /images/clean-white-polygon-backgrounds-9.jpg
@@ -41,6 +42,7 @@ highlighter: pygments
 markdown:    kramdown
 gems:
   - jekyll-sitemap
+  
 sass:
   sass_dir: _sass
   style: compressed
