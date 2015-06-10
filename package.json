@@ -1,13 +1,13 @@
 {
   "name": "Aniket Yadav",
   "author": "Aniket Yadav <aktyad@gmail.com>",
-  "homepage": "http://davincis.github.io/Aniket-Yadav/",
+  "homepage": "https://github.com/AniketY/AniketY.github.io",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Davincis/Aniket-Yadav/"
+    "url": "git://github.com/AniketY/AniketY.github.io"
   },
   "bugs": {
-    "url": "https://github.com/Davincis/Aniket-Yadav/"
+    "url": "https://github.com/AniketY/AniketY.github.io"
   },
   "engines": {
     "node": ">= 0.10.0"
