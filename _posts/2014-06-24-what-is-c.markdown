@@ -16,7 +16,7 @@ tags:
 - LET US C
 ---
 
-[caption id="" align="alignright" width="110"][![Dennis_Ritchie](http://t2.gstatic.com/images?q=tbn:ANd9GcSCTB9I_TXEV13gQvNR7JL2Cf3M0slUIuOLMUQ-640i9RvkcvxX)](http://en.wikipedia.org/wiki/Dennis_Ritchie) Dennis Ritchie[/caption]
+[![Dennis_Ritchie](http://t2.gstatic.com/images?q=tbn:ANd9GcSCTB9I_TXEV13gQvNR7JL2Cf3M0slUIuOLMUQ-640i9RvkcvxX)](http://en.wikipedia.org/wiki/Dennis_Ritchie) Dennis Ritchie
 
 C is a programming language developed at AT&T Laboratory of USA in 1972 . It was developed by a man named[ Dennis Ritchie](http://en.wikipedia.org/wiki/Dennis_Ritchie).
 
